@@ -1,6 +1,6 @@
-# UnitySimples
+# UnityAR
 
-Template básico para aplicativo 3D em Unity usando C#
+Template básico para aplicativo AR 3D em Unity usando C#
 
 Mais informações em http://gg.gg/unitysimples
 
